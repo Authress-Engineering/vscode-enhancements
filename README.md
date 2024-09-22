@@ -29,9 +29,7 @@ This extension contributes the following settings:
 
 ## Release Notes
 
-### 1.0.0
-
-Initial release
+[Changelog](./CHANGELOG.md)
 
 ## License
 
